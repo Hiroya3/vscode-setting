@@ -21,5 +21,7 @@
     "workbench.startupEditor": "readme",
     "editor.accessibilitySupport": "off",
     "editor.dragAndDrop": false,
-    "vscode-pets.theme": "castle"
+    "vscode-pets.theme": "castle",
+    "git.enableCommitSigning": true,
+    "git-graph.repository.sign.commits": true
 }
